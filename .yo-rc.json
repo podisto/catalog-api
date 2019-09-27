@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.simba.catalog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "catalogapi",
+    "packageName": "com.simba.catalog",
+    "packageFolder": "com/simba/catalog",
+    "serverPort": "8085",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Zjk0NDJlNmYwOTJmMjBhYTlhMzMxOTk0MzBjOWNmMTMzMWIwZjI4ODYxYWU5NGI3ZTE5ODFiOWE1OTJhZjFjNjIyNTIyYzU1NWViMzkwMjVmZWI3NzQ4MjU3MzQwYjcxYWEwNzA0NzBkOWQ2ZjA4ZTc0NDAzMzhmZjRmZTdjNDM=",
+    "enableTranslation": true,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
